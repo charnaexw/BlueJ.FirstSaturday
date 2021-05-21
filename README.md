@@ -1,3 +1,8 @@
+* This lab has been separated into several labs:
+  * [ControlsChecker.BlueJ](https://github.com/Zipcoder/controlschecker.bluej)
+  * [ThresholdEvaluator.BlueJ](https://github.com/Zipcoder/thresholdevaluator.bluej)
+  * more to come...
+
 # First Saturday
 
 First weekend lab. Overall idea is to read the code, read the tests, and then write some code to pass all the tests.
